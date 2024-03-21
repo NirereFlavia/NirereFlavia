@@ -1,16 +1,77 @@
-### Hi there 👋
+      
+<h1 align="center">
+  <b>Hi! I am Nirere Flavia👋</b>  
+</h1>
 
-<!--
-**NirereFlavia/NirereFlavia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`FullStuck Developper and training cyber security.`**
 
-Here are some ideas to get you started:
+<p>I am a student at ESAIP, École d'Ingénieurs in a small city Angers, France with the aime of becoming an ingineer in Cyber Security😊. I enjoy coding especially in web or app development. Through my initial skills I get from trainings or shool I train myself by building small projects.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current situation
+  📖 I am currently in Erasmus in Vilnius for 6 months.<br>
+  🔍 I am searching for three years apprenticeship in France.<br>
+  👩‍💻 I am doing small projects in Python and Java to increase my skills.<br>
+  💻 I am Trying to increase my git skills.
+
+### 🧰 Programming Languages and Tools
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+          
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+
+<img align="left" alt="React" width="30px" style="padding-right:10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+          
+
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+          
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" />
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" /><br>
+
+
+### 🎖️Finished project
+⭐️ <h>Archivma:</h> A professional project developed in react js and Boostrap.<br>
+⭐️ <h>UmurengeQuick:</h> A personal project developed in React js.<br>
+⭐️ <h>Rwanda-booking-tours:</h> A personal project developed in Html.<br>
+⭐️ <h>KeyLogger:<h/> A small personal project built in python.<br>
+⭐️ <h>BadPassword:<h/> A small personal project built in python.<br>
+
+### Languages
+Kinyarwanda 🇷🇼(Native)<br>
+Advanced in English 🇺🇸 C1<br>
+Intermediate in French 🇫🇷 B1<br>
+Intermediate in Swahili 🇨🇩 B1<br>
+Learning Spanish 🇪🇸<br>
+
+    
+          
+
+
+
+
+
+          
