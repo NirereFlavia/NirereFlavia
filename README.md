@@ -3,14 +3,14 @@
   <b>Hi! I am Nirere Flavia👋</b>  
 </h1>
 
-**`FullStuck Developper and training cyber security.`**
+**`Full Stack Developper and training cyber security.`**
 
 <p>I am a student at ESAIP, École d'Ingénieurs in a small city Angers, France with the aime of becoming an ingineer in Cyber Security😊. I enjoy coding especially in web or app development. Through my initial skills I get from trainings or shool I train myself by building small projects.</p>
 
 ### Current situation
   📖 I am currently in Erasmus in Vilnius for 6 months.<br>
   🔍 I am searching for three years apprenticeship in France.<br>
-  👩‍💻 I am doing small projects in Python and Java to increase my skills.<br>
+  👩‍💻 I am doing small projects in Python and Java for study purpose.<br>
   💻 I am Trying to increase my git skills.
 
 ### 🧰 Programming Languages and Tools
@@ -66,9 +66,6 @@ Advanced in English 🇺🇸 C1<br>
 Intermediate in French 🇫🇷 B1<br>
 Intermediate in Swahili 🇨🇩 B1<br>
 Learning Spanish 🇪🇸<br>
-
-    
-          
 
 
 
