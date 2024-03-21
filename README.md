@@ -53,6 +53,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-ori
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" /><br>
 
 
+<img align="left" alt="Git" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+          
+
+
 ### 🎖️Finished project
 ⭐️ <h>Archivma:</h> A professional project developed in react js and Boostrap.<br>
 ⭐️ <h>UmurengeQuick:</h> A personal project developed in React js.<br>
