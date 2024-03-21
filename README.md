@@ -1,6 +1,6 @@
       
 <h1 align="center">
-  <b>Hi! I am Nirere Flavia👋</b>  
+  <b>Hi there! I am Flavia Nirere👋</b>  
 </h1>
 
 **`Full Stack Developper and training cyber security.`**
