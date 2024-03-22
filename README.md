@@ -52,6 +52,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-ori
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
 
+<img align="left" alt="Git" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /><br>
@@ -59,7 +61,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-origi
 
 
 ### 🎖️Finished project
-⭐️ <h>Archivma:</h> A professional project developed in react js and Boostrap.
+⭐️ <h>Archivma:</h> A professional project developed in react js and Boostrap.<br>
 ⭐️ <h>UmurengeQuick:</h> A personal project developed in React js.<h> Read<a href="https://www.kaggle.com/code/kingabzpro/finding-the-bad-password"> more</a></h><br>
 ⭐️ <h>Rwanda-booking-tours:</h> A personal project developed in Html.<h> Read<a href="https://github.com/NirereFlavia/Rwanda-booking-tours"> more</a></h><br>
 ⭐️ <h>KeyLogger:<h/> A small personal project built in python.<h> Read<a href="https://github.com/NirereFlavia/KeyLogger.SelfStudy"> more</a></h><br>
@@ -72,6 +74,10 @@ Intermediate in French 🇫🇷 B1<br>
 Intermediate in Swahili 🇨🇩 B1<br>
 Learning Spanish 🇪🇸<br>
 
+### 📇Contact
+📧 flavianirere28@gmail.com<br>
+📞 +33750507677<br>
+📍 Angers,France<br>
 
 
 
