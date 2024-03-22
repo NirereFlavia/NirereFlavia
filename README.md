@@ -62,7 +62,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-origi
 
 ### 🎖️Finished project
 ⭐️ <h>Archivma:</h> A professional project developed in react js and Boostrap.<br>
-⭐️ <h>UmurengeQuick:</h> A personal project developed in React js.<h> Read<a href="https://www.kaggle.com/code/kingabzpro/finding-the-bad-password"> more</a></h><br>
+⭐️ <h>UmurengeQuick:</h> A personal project developed in React js.<h> Read<a href="https://github.com/NirereFlavia/umurengeQuick"> more</a></h><br>
 ⭐️ <h>Rwanda-booking-tours:</h> A personal project developed in Html.<h> Read<a href="https://github.com/NirereFlavia/Rwanda-booking-tours"> more</a></h><br>
 ⭐️ <h>KeyLogger:<h/> A small personal project built in python.<h> Read<a href="https://github.com/NirereFlavia/KeyLogger.SelfStudy"> more</a></h><br>
 ⭐️ <h>BadPassword:<h/> A small personal project built in python.<h> Read<a href="https://github.com/NirereFlavia/badPassword/tree/main"> more</a></h><br>
