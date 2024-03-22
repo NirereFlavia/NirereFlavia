@@ -75,9 +75,12 @@ Intermediate in Swahili 🇨🇩 B1<br>
 Learning Spanish 🇪🇸<br>
 
 ### 📇Contact
-📧 flavianirere28@gmail.com<br>
-📞 +33750507677<br>
 📍 Angers,France<br>
+📞 +33750507677<br>
+📧 flavianirere28@gmail.com<br>
+<img  alt="Git" width="15px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> www.linkedin.com/in/nirere-flavia-42b182264
+          
 
 
 
